@@ -1,0 +1,10 @@
+.element{
+	background-color: lightsalmon;
+	padding: 10px 0px;
+	padding-left: 20px;
+}
+
+label{
+	width: 150px;
+	display: inline-block;
+}
